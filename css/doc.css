@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'GreekHouseSymbolized';
+	src: url('GreekHouse Symbolized_Free.ttf');
+}
+
+@font-face {
+	font-family: 'Aristarcoj';
+	src: url('Aristarcoj2.ttf');
+}
+
+@font-face {
+	font-family: 'Trajan Pro';
+	src: url('TrajanPro-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Trajan Pro Bold';
+	src: url('TrajanPro-Bold.otf');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('OpenSans-Regular.ttf');
+}
